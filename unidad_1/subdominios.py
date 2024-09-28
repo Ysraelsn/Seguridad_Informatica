@@ -1,6 +1,9 @@
 '''
-Programa para encontrar subdominios de un sitio
-Explicar que hace este script.
+Este script en Python realiza una búsqueda de subdominios 
+para un dominio objetivo proporcionado por el usuario, 
+utilizando una lista de subdominios almacenada 
+en un archivo llamado subdominios.txt
+
 Desarrollado por Jaime Israel Sánchez Nava.
 '''
 import msvcrt
