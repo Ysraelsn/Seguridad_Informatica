@@ -1,3 +1,10 @@
+'''
+Este código es un script en Python que toma una URL
+proporcionada por el usuario y convierte esa URL en su dirección IP 
+usando la función de resolución de nombres de dominio (DNS) socket.gethostbyname.
+
+Desarrollado por Jaime Israel Sánchez Nava.
+'''
 import msvcrt
 import socket
 import sys
